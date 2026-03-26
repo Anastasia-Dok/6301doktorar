@@ -1,0 +1,93 @@
+{
+  "objectID": 37826,
+  "isHighlight": false,
+  "accessionNumber": "1970.298.2",
+  "accessionYear": "1970",
+  "isPublicDomain": true,
+  "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/LC-1970_298_2_housing--003_crop.jpg",
+  "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/LC-1970_298_2_housing--003_crop.jpg",
+  "additionalImages": [],
+  "constituents": null,
+  "department": "Asian Art",
+  "objectName": "Thangka",
+  "title": "Thanka with Buddha",
+  "culture": "Tibet",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "",
+  "artistPrefix": "",
+  "artistDisplayName": "",
+  "artistDisplayBio": "",
+  "artistSuffix": "",
+  "artistAlphaSort": "",
+  "artistNationality": "",
+  "artistBeginDate": "",
+  "artistEndDate": "",
+  "artistGender": "",
+  "artistWikidata_URL": "",
+  "artistULAN_URL": "",
+  "objectDate": "19th century",
+  "objectBeginDate": 1800,
+  "objectEndDate": 1899,
+  "medium": "Distemper on cloth",
+  "dimensions": "Image: 33 1/8 x 20 7/8 in. (84.1 x 53 cm)",
+  "measurements": [
+    {
+      "elementName": "Image",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 84.1377,
+        "Width": 53.0226
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Depth": 3.175,
+        "Height": 119.69774,
+        "Width": 90.80518
+      }
+    }
+  ],
+  "creditLine": "Gift of Joseph H. Heil, 1970",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2025-11-03T04:51:32.483Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/37826",
+  "tags": [
+    {
+      "term": "Peonies",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300380052",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q147105"
+    },
+    {
+      "term": "Buddhism",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300073738",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q748"
+    },
+    {
+      "term": "Buddha",
+      "AAT_URL": "http://vocab.getty.edu/page/aat/300262950",
+      "Wikidata_URL": "https://www.wikidata.org/wiki/Q7055"
+    }
+  ],
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q78916378",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}
